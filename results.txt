@@ -1,0 +1,15 @@
+
+characters.py  --  Your code has been rated at 9.88/10 (previous run: 9.88/10, +0.00)
+
+config.py  --  Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+game_engine.py  --  Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+map_1.py  --  Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+non_blocking_input.py  --  Your code has been rated at 9.69/10 (previous run: 9.69/10, +0.00)
+
+objects.py  --  Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+scene.py  --  Your code has been rated at 9.49/10 (previous run: 9.49/10, +0.00)
+
